@@ -5,5 +5,8 @@
     "build": "react-scripts build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
+  },
+  "dependencies": {
+    "react-scripts": "^5.0.1"
   }
 }
